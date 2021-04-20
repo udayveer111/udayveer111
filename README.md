@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Udayveer Singh. I'm pursuing my undergraduation(B.Tech) in Computer Science from GL Bajaj Group Of Institutions, Mathura (Dr.A.P.J.Abdul Kalam Technical University,Lucknow, Uttar Pradesh).
-- 👀 I’m interested in coding, web development and playing tennis and Kabaddi.
+- 👀 I’m interested in coding, web development and playing Badminton and Kabaddi.
 - 🌱 I’m currently learning competitive coding and web frameworks.
 - 💞️ I’m looking to collaborate on OpenSource projects and Internships.
 - 📫 The way to reach me is through Email_Address.
